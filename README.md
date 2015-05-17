@@ -33,7 +33,7 @@ Error table:
 
 Accuracy rate of one picture is about 80%   8/10*100%=80%
 
-Accuracy rate of one digital is about 95%   38/4*10*100%=95%
+Accuracy rate of one digital is about 95%   38/40*100%=95%
 
 
 
