@@ -10,7 +10,7 @@ a python project can recognize the number in the picture such as：
 # Train set：the picture 0.gif to 29.gif in SecondTrain\temp3 
 
 # Testing set: the picture 100.gif to 109.gif in SecondTrain\temp3
-<img src = "https://github.com/dyslove123/python/blob/master/Picture/Answer.jpg" width="70%" heigh="70%" >
+<img src = "https://github.com/dyslove123/python/blob/master/Picture/Answer.jpg" >
 
 
 # Screenshot：
